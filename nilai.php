@@ -100,7 +100,7 @@
                 <!-- content -->
                 
                 <div class="container">
-                    <h1>Nilai A</h1>
+                    <h1>Nilai</h1>
                 </div>
 
                 <!-- end content -->
