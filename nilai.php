@@ -99,7 +99,9 @@
                 </nav>
                 <!-- content -->
                 
-
+                <div class="container">
+                    <h1>Nilai A</h1>
+                </div>
 
                 <!-- end content -->
 
