@@ -101,6 +101,18 @@
                 
                 <div class="container">
                     <h1>Nilai</h1>
+
+                    <form class="cari d-flex ">
+                    <div class="col-auto">
+                        <label for="select" class="col-form-label">Semester :</label>
+                    </div>
+                    <select id="select" class="form-select">
+                            <option value="1">One</option>
+                            <option value="2">Two</option>
+                            <option value="3">Three</option>
+                        </select>
+                        <button class="btn btn-primary ml-3">Cari</button>
+                    </form>
                 </div>
 
                 <!-- end content -->
