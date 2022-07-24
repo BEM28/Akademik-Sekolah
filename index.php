@@ -87,7 +87,7 @@
 
                 <!-- Topbar -->
                 <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow position-relative">
-                    <div class="container mt-2 position-absolute top-0 end-0">
+                    <div class="container">
                         
                         <div class="nav-item "></div>
                         <div class="nav-item "></div>
